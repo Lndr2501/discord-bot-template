@@ -81,4 +81,4 @@ async def whisper(inter: nc.Interaction, user: nc.User, message: str):
         embed=em)
 
 
-bot.run("""Dein Bot Token hier hin!""")
+bot.run("Dein Bot Token hier hin!")
